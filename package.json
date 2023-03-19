@@ -2,7 +2,7 @@
   "name": "dad-joke-generator",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/KhuongNC/dad-joke-generator_React",
+  "homepage": "https://khuongnc.github.io/dad-joke-generator_React/",
   "dependencies": {
     "-": "0.0.1",
     "@testing-library/jest-dom": "^5.16.5",
