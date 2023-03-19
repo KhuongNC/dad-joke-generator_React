@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/KhuongNC/dad-joke-generator_React/static/css/main.920b86d6.css",
-    "main.js": "/KhuongNC/dad-joke-generator_React/static/js/main.b8676fdb.js",
-    "static/js/787.802afddf.chunk.js": "/KhuongNC/dad-joke-generator_React/static/js/787.802afddf.chunk.js",
-    "index.html": "/KhuongNC/dad-joke-generator_React/index.html",
-    "main.920b86d6.css.map": "/KhuongNC/dad-joke-generator_React/static/css/main.920b86d6.css.map",
-    "main.b8676fdb.js.map": "/KhuongNC/dad-joke-generator_React/static/js/main.b8676fdb.js.map",
-    "787.802afddf.chunk.js.map": "/KhuongNC/dad-joke-generator_React/static/js/787.802afddf.chunk.js.map"
+    "main.css": "/dad-joke-generator_React/static/css/main.920b86d6.css",
+    "main.js": "/dad-joke-generator_React/static/js/main.e30cb883.js",
+    "static/js/787.802afddf.chunk.js": "/dad-joke-generator_React/static/js/787.802afddf.chunk.js",
+    "index.html": "/dad-joke-generator_React/index.html",
+    "main.920b86d6.css.map": "/dad-joke-generator_React/static/css/main.920b86d6.css.map",
+    "main.e30cb883.js.map": "/dad-joke-generator_React/static/js/main.e30cb883.js.map",
+    "787.802afddf.chunk.js.map": "/dad-joke-generator_React/static/js/787.802afddf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.920b86d6.css",
-    "static/js/main.b8676fdb.js"
+    "static/js/main.e30cb883.js"
   ]
 }
